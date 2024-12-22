@@ -1,0 +1,1 @@
+// wap to reverse the elements of an array. For eg if the array is(1,2,3,4,5)
